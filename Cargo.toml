@@ -6,6 +6,8 @@ edition = "2018"
 repository = "https://github.com/zikwall/r-mime"
 readme = "README.md"
 description="MIME type definition library"
+homepage = "https://github.com/zikwall/r-mime"
+license="MIT OR Apache-2.0"
 
 [lib]
 name = "mime"
