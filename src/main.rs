@@ -1,5 +1,4 @@
-pub mod mime;
-pub mod sources;
+use mime;
 
 fn main() {
     // do stuff
