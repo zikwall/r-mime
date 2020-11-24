@@ -5,6 +5,7 @@ authors = ["zikwall <andrey.kapitonov.96@gmail.com>"]
 edition = "2018"
 repository = "https://github.com/zikwall/r-mime"
 readme = "README.md"
+description="MIME type definition library"
 
 [lib]
 name = "mime"
